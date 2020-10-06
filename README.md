@@ -1,15 +1,7 @@
 ## Hey, I'm Mohit
 
-You can use the [editor on GitHub](https://github.com/mxhit-j/pottersnewt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently a final year Masters student at Bioinformatics Centre, Savitribai Phule Pune University, India. My thesis work focuses on addressing the protein folding problem from the perspective of complex networks (small-world network property), probing residue interaction graph models of protein structures. Other interests include understanding complex networks (both biological and artificial), chaos, neural circuits, SciComm, illustrations and getting lost in random places.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -24,6 +16,5 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
